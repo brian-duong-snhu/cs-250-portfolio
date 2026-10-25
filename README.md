@@ -9,8 +9,8 @@ o	Before writing the actual code, I would create wireframes and pseudocode for t
 
 •	What does it mean to be a good team member in software development?
 o	To me, a good team member possesses the following qualities:
-	Be responsive to team members in a timely manner
-	Be engaging when collaborative on tasks and assignments
-	Clearly explain how we interpret the requirements or user stories
-	Keep notes of things we learn from other team members and use these as building blocks to continually develop our skillset
-	When in a dispute with another team member, be willing to listen to their thought process with an open mind. If we don’t agree with the team member, try to reach a middle ground. If this is still not possible, reach out to the Scrum master to settle the dispute
+  - Be responsive to team members in a timely manner
+  - Be engaging when collaborative on tasks and assignments
+  - Clearly explain how we interpret the requirements or user stories
+  - Keep notes of things we learn from other team members and use these as building blocks to continually develop our skillset
+  - When in a dispute with another team member, be willing to listen to their thought process with an open mind. If we don’t agree with the team member, try to reach a middle ground. If this is still not possible, reach out to the Scrum master to settle the dispute
